@@ -58,5 +58,5 @@ body{
 }
 .container .box .img:hover img{
   width:58px;
-  transition:box-shadow .2s ease-out;
+  transition:width .2s ease-out;
 }
